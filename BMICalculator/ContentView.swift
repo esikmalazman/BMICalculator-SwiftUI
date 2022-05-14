@@ -60,23 +60,4 @@ struct ContentView_Previews: PreviewProvider {
   }
 }
 
-/*
- Must have
- - slider for height ✅
- - slider for weight ✅
- - label for slider height and weight ✅
- - button to calculate BMI ✅
- - BMI Logic ✅
- - Alert show bmi with status ✅
- 
- */
-
-/*  Nice to Have
- - Make slider design follow app design ✅
- - Initialise different color for result ✅
- - Should display the result on different page ✅
- - Dark modes
- 
- */
-
 
